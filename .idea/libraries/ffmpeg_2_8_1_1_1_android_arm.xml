@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ffmpeg-2.8.1-1.1-android-arm">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bytedeco.javacpp-presets/ffmpeg/2.8.1-1.1/e9de6569f01f6546da3e51ea1315bb933a38e11c/ffmpeg-2.8.1-1.1-android-arm.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
